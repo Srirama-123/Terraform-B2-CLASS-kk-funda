@@ -1,4 +1,3 @@
-Here is the complete guide in **GitHub-friendly Markdown (`.md`) format**. You can copy and save it as `terraform_aws_ec2_guide.md` for use in GitHub or documentation.  
 
 ---
 
