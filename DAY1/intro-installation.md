@@ -40,7 +40,7 @@ Terraform is an open-source Infrastructure as Code (IaC) tool developed by Hashi
 | Mutable vs Immutable | ✅ Immutable | ❌ Mutable        | ❌ Mutable |
 | Provisioning Speed   | ✅ Fast   | ✅ Fast            | 🔶 Medium |
 
-Terraform stands out due to its declarative language (HCL), strong multi-cloud support, and powerful state management.
+Terraform stands out due to its declarative language (HCL = HashiCorp Configuration Language), strong multi-cloud support, and powerful state management.
 
 ---
 
