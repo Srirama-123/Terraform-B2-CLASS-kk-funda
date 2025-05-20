@@ -70,6 +70,8 @@ terraform init
 ```
 - This downloads the necessary AWS provider plugins.
 
+- Then Execute This command     terraform validate  ( it check the all the  syntax whether it is correct or not ) 
+
 ### **2. Preview Execution Plan**
 ```bash
 terraform plan
